@@ -1,0 +1,20 @@
+{
+  "mode": "baseline",
+  "n_corpus": 26,
+  "n_reference": 20,
+  "reference_agreement_count": 13,
+  "reference_agreement_pct": 65.0,
+  "reference_review_flags": 20,
+  "reference_theme_counts": {
+    "expectation_gap": 3,
+    "social_influence": 3,
+    "status_uncertainty": 5,
+    "payment_failure": 3,
+    "trust_reliability": 2,
+    "product_literacy": 4,
+    "goal_change": 2,
+    "cashflow_stress": 4
+  },
+  "predictions_csv": "/mnt/data/SIP_Saathi_Build/NL_Groww/discovery_engine/predictions_baseline.csv",
+  "important": "Provisional researcher labels. Baseline is keyword-based, not LLM performance. No evidence of representative churn rates."
+}
